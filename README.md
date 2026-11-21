@@ -263,7 +263,9 @@ Please keep the cyber dark theme and document any new kinematic or control featu
 ## 👤 Author & Credits
 
 **Student / Developer**: Sampath Kumar Kanuri
+
 **Institute**: Lovely Professional University (LPU)  
+
 **Roll No.**: 12500337
  
 
